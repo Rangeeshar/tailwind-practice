@@ -3,7 +3,7 @@ import React from "react";
 const JobCard = () => {
   return (
     <div className="flex md:w-[28rem]">
-      <div className="h-full bg-white shadow-lg rounded-lg md:p-6 md:w-[28rem] sm:w-auto">
+      <div className="h-full bg-white rounded-lg md:p-6 md:w-[28rem] sm:w-auto">
         <div className="flex space-x-2">
           <div className="flex space-y-4 mb-3">
             <img

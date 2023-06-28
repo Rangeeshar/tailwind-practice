@@ -3,7 +3,7 @@ import React from "react";
 const FormTwo = () => {
   return (
     <div className="flex-auto items-left">
-      <div className="h-full bg-white shadow-lg rounded-lg md:p-6 md:w-auto sm:w-auto">
+      <div className="h-full bg-white rounded-lg md:p-6 md:w-auto sm:w-auto">
         <div className="flex place-content-between">
           <p className="md:mb-4 text-[18px] font-bold">Create a job</p>
           <p className="text-[15px] font-bold">Step 2</p>

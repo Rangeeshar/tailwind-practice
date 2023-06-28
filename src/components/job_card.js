@@ -9,7 +9,7 @@ const JobCard = () => {
             <img
               className="relative inline-block h-12 w-12 rounded-lg object-cover object-center"
               alt="job logo"
-              src="https://www.material-tailwind.com/img/face-2.jpg"
+              src="netflix.png"
             />
           </div>
           <div className="flex-wrap">

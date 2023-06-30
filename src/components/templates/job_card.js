@@ -29,7 +29,7 @@ const JobCard = () => {
               Apply Now
             </button>
             <button
-              className="h-[40px] w-[145px] text-[14px] bg-[white] border-2 border-[#1597E4] hover:bg-blue-700 hover:text-white text-[#1597E4] font-bold py-[8px] px-[8px] rounded focus:outline-none focus:shadow-outline"
+              className="h-[40px] w-[145px] text-[14px] bg-[white] border-[1px] border-[#1597E4] hover:bg-blue-700 hover:text-white text-[#1597E4] font-[500] py-[8px] px-[8px] rounded focus:outline-none focus:shadow-outline"
               type="submit"
             >
               External Apply
